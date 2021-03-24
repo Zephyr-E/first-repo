@@ -1,2 +1,1 @@
-sup world
-$asd = 1
+$asd = 2
